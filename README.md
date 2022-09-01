@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cagan</h1>
 <h3 align="center">I'm a Mern Stack student.</h3>
 
-
-
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **Mern Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cagansenn](https://github.com/cagansenn)
 
@@ -15,5 +13,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagansenn&show_icons=true&locale=en" alt="cagansenn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagansenn&" alt="cagansenn" /></p>
-
-
