@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cagan</h1>
 <h3 align="center">I'm a Mern Stack student.</h3>
 
-- 🌱 I’m currently learning **Mern Stack Development**
+🌱 I’m currently learning **Mern Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cagansenn](https://github.com/cagansenn)
 
