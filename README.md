@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cagan</h1>
-<h3 align="center">Just a regular frontend developer.</h3>
+<h3 align="center">I'm a Mern Stack student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagansenn&label=Profile%20views&color=0e75b6&style=flat" alt="cagansenn" /> </p>
 
