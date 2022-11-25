@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağan Şen</h1>
 <h3 align="center">Currently Front End Developer</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/cagansenn](github.com/cagansenn)
+- 👨‍💻 All of my projects are available at **[github.com/cagansenn](github.com/cagansenn)**
 
 - 📫 How to reach me **cagansen@protonmail.com**
 
